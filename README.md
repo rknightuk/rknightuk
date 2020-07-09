@@ -1,3 +1,5 @@
 - 🌐️ [Personal Site](https://rknight.me)
 - 🏠️ [Lead Developer at Radweb](https://radweb.co.uk) working on [InventoryBase](https://inventorybase.co.uk)
+- #️⃣ [DevsDoDesign](http://devsdodesign.com)
 - 🎙️ [Podcast](https://www.ruminatepodcast.com)
+- 🐦️ [@rknightuk](https://twitter.com/rknightuk) on Twitter

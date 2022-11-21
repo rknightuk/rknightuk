@@ -2,4 +2,4 @@ I'm lead developer at [Radweb](http://radweb.co.uk) working on [InventoryBase](h
 
 ---
 
-<p align="center"><a href="https://rknight.me">Website</a> | <a href="https://twitter.com/rknightuk">Twitter</a></p>
+<p align="center"><a href="https://rknight.me">Website</a>

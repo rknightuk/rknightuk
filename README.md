@@ -4,4 +4,4 @@ I'm lead developer at [Radweb](http://radweb.co.uk) working on [InventoryBase](h
 
 <p align="center"><a href="https://rknight.me">Website</a>
   
-<a style="display: none;" rel="me" href="https://social.lol/@robb">Mastodon</a>
+<a style="display: none;" rel="me" href="https://social.lol/@robb"></a>

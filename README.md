@@ -1,7 +1,15 @@
-I'm a developer at my day job, a developer and podcaster at [MacStories](https://macstories.net/about), a member of [#DevsDoDesign](http://devsdodesign.com), an award winning hackathon team, and a podcaster with [two](https://ruminatepodcast.com) [shows](https://wegot.family). I also [make a bunch of stuff](/projects) including [EchoFeed](https://echofeed.app).
+I'm a person of many hats both physical and metaphorical:
 
----
+- 🕸️ creator of [web curios](https://rknight.me/projects)
+- 📝 writer of [blog posts](https://rknight.me/blog)
+- 📦 [merchant of stickers](https://rknight.me/shop)
+- 🎙️ podcaster on [Ruminate](https://ruminatepodcast.com) and [We Got Family](https://wegot.family)
+- 🔊 proprietor of [EchoFeed](https://echofeed.app)
 
-<p align="center"><a href="https://rknight.me">Website</a>
-  
-<a style="display: none;" rel="me" href="https://social.lol/@robb"></a>
+You can find me on Mastodon as [robb@social.lol](https://social.lol/@robb) and more things as `rknightuk`. You can also [verify what is and isn't me](https://rknight.me/verify).
+
+My code appears in the following code forges:
+
+- [KnightForge](https://git.7622.me/robb)
+- [SourceTube](https://source.tube/robb)
+- [GitHub](https://github.com/rknightuk)
